@@ -19,7 +19,7 @@ require (
 	github.com/rubenv/sql-migrate v1.2.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/urfave/cli v1.22.10
-	golang.org/x/crypto v0.3.0
+	golang.org/x/crypto v0.17.0
 )
 
 require (
@@ -36,8 +36,8 @@ require (
 	github.com/russross/blackfriday/v2 v2.0.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ziutek/mymysql v1.5.5-0.20171217234033-ff6cc86d3d93 // indirect
-	golang.org/x/net v0.2.0 // indirect
-	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/term v0.2.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/term v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 )
